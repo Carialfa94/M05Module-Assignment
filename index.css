@@ -10,13 +10,14 @@ body {
 }
 h1 {
 	background-image: url('http://javascriptbook.com/code/c04/images/bullseye-logo.png');
-	background-repeat: no repeat;
+	background-repeat: no-repeat;
 	text-indent: 100%;
 	white-space: nowrap;
 	overflow: hidden;
 	height: 109px;
-	width 643px;
-	margin: 40px auto;
+	width: 643px;
+	margin: 40px auto;}
+
 }
 
 #teacher {
