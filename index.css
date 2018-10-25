@@ -8,13 +8,12 @@ body {
 	margin: 0px 0px 0px 0px;
      text-align: center;
 }
+}
 h1 {
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	height: 109px;
-	width: 643px;
-	margin: 40px auto;}
+	text-align: center;
+ color: white;
+font-family: 'Wellfleet', times, serif;
+}
 
 #teacher {
 	float: center;
